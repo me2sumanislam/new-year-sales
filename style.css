@@ -71,3 +71,40 @@
    padding: 35px;
   
  }
+
+ .eventplace{
+   display: flex;
+ }
+ .eventvenu{
+   
+   background-image: linear-gradient(to right, rgb(42, 41, 41) , rgb(180, 141, 141));
+   width: 1300px;
+   height:600px;
+   margin: auto;
+   display: flex;
+   margin-top: 50px;
+   border-radius: 10px;
+
+ }
+
+  .eventplace-text{
+   width:549px ;
+   height: 272px;
+   margin: auto;
+   font-size:30px;
+  }
+
+  .eventplace ,span{
+   color: red;
+  }
+
+  .join-btn{
+   background-color: #ff0000;
+   color:white;
+   width: 167px;
+   height: 56px;
+   font-weight: bolder;
+   font-size: 20px;
+   border-radius: 5px;
+ 
+  }
