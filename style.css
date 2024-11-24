@@ -108,3 +108,54 @@
    border-radius: 5px;
  
   }
+
+
+  .comingsoon{
+   display: flex;
+   margin-top: 30px;
+  }
+
+  .newbestText{
+   width: 393px;
+   height: 128px;
+   margin-left: 150px;
+
+  }
+
+  .roundimg{
+   margin-top: 20px;
+   height: 463px;
+   width: 463px;
+   background-color: white;
+   border-radius: 50%;
+   display: inline-block;
+   outline:20px solid red;
+   margin-left: 150px;
+   
+  }
+   .roundimg2{
+   width: 374px;
+   height: 374px;
+ margin-left: 50px;
+ margin-right: 50px;
+ margin-top: 50px;
+ margin-bottom: 50px;
+ 
+  }
+
+  .twentytwentyfour2{
+   width: 393px;
+   height: 128px;
+   margin-left: 150px;
+  }
+  .heading4{
+   color: #ff0000;
+  }
+  .cs{
+   color: black;
+   font-size: 48px;
+   line-height: 2px;
+  }
+  .demoText{
+   font-size: 20px;
+  }
