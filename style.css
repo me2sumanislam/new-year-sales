@@ -1,4 +1,73 @@
-.newYearDiv{
-    width: 1320;
-    height: 600;
-}
+ .banner{
+    background-image:url("img/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-position: center;  
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    padding-left: 50px;
+    width: 1320px;
+    height:600px ;
+  
+ }
+ 
+ .banner-text{
+    font-size: 40px;
+    color: white;
+    width:632px ;
+    margin: auto; 
+    
+ }
+  
+ #sixtyFiveoff{
+   display: flex;
+ }
+
+ .off{
+   width: 800px;
+   margin: auto;
+   text-align: center;
+   padding: 0px;
+ 
+ }
+ .off-text{
+   color:#ff0000;
+   font-style: bold;
+   font-size: 80px;
+
+ }
+
+ .holydayDeals-text{
+   color: #ff0000;
+   margin: 0px;
+ 
+ }
+
+ .midnightbackgroundImg{
+   background-image: url("img/Vectorrr.png");
+   background-repeat: no-repeat;
+   width: 1300px;
+   height: 600px;
+   margin: auto;
+   display: flex;
+ }
+
+ .welcome-Text{
+   color: #ffffff;
+   font-size: 22px;
+   width: 600px;
+   margin: 70px;
+   padding: 40px;
+ 
+ }
+
+ .twentytwentyfour{
+   background-image: url("img/Group 70.png");
+   background-repeat: no-repeat;
+   background-position: center;
+   width: 320px;
+   height: 464px;
+   margin: 60px;
+   padding: 35px;
+  
+ }
